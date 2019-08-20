@@ -1,0 +1,18 @@
+﻿  Main.cpp
+c:\users\admin\music\dathuvienctdl\dathuvienctdl\dathuvienctdl\mylib.h(138): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\admin\music\dathuvienctdl\dathuvienctdl\dathuvienctdl\mylib.h(166): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\admin\music\dathuvienctdl\dathuvienctdl\dathuvienctdl\mylib.h(181): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\admin\music\dathuvienctdl\dathuvienctdl\dathuvienctdl\datastructure.h(256): warning C4101: 'temp': unreferenced local variable
+c:\users\admin\music\dathuvienctdl\dathuvienctdl\dathuvienctdl\datastructure.h(2066): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+c:\users\admin\music\dathuvienctdl\dathuvienctdl\dathuvienctdl\datastructure.h(2135): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\admin\music\dathuvienctdl\dathuvienctdl\dathuvienctdl\datastructure.h(2172): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\music\dathuvienctdl\dathuvienctdl\dathuvienctdl\datastructure.h(2248): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\music\dathuvienctdl\dathuvienctdl\dathuvienctdl\datastructure.h(2250): warning C4018: '>': signed/unsigned mismatch
+c:\users\admin\music\dathuvienctdl\dathuvienctdl\dathuvienctdl\datastructure.h(2287): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+c:\users\admin\music\dathuvienctdl\dathuvienctdl\dathuvienctdl\datastructure.h(2680): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\music\dathuvienctdl\dathuvienctdl\dathuvienctdl\mylib.h(100): warning C4172: returning address of local variable or temporary: S
+c:\users\admin\music\dathuvienctdl\dathuvienctdl\dathuvienctdl\checkio.h(103): warning C4172: returning address of local variable or temporary: character
+c:\users\admin\music\dathuvienctdl\dathuvienctdl\dathuvienctdl\checkio.h(133): warning C4715: 'justInString': not all control paths return a value
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1193,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+  DAThuVienCTDL.vcxproj -> C:\Users\ADMIN\Music\DAThuVienCTDL\DAThuVienCTDL\x64\Debug\DAThuVienCTDL.exe
+  DAThuVienCTDL.vcxproj -> C:\Users\ADMIN\Music\DAThuVienCTDL\DAThuVienCTDL\x64\Debug\DAThuVienCTDL.pdb (Partial PDB)
